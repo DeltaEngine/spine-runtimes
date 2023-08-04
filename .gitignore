@@ -190,6 +190,7 @@ spine-flutter/macos/Classes/spine-cpp
 spine-flutter/src/spine-cpp
 spine-godot/godot-nuget
 spine-godot/godot-spine-csharp
+spine-ue4/Plugins/Developer
 .vs/
 obj/
 bin/
